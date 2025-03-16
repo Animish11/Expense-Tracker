@@ -19,6 +19,9 @@ A command-line application to manage personal finances, track expenses, and gene
 - Filter summary by month
 - Persistent data storage (JSON)
 
+
+"https://roadmap.sh/projects/expense-tracker"
+
 📈 **Additional Features**
 - Export all expenses to CSV
 - Input validation and error handling
